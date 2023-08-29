@@ -1,4 +1,5 @@
-# ChatBot created using nltk and pytorch
+# ChatBot created using nltk and PyTorch
+
 # Chatbot Deployment with Flask and JavaScript
 This gives 2 deployment options:
 - Deploy within Flask app with jinja2 template
